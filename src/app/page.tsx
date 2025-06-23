@@ -102,7 +102,7 @@ export default function page() {
           </div>
         )}
       </header>
-      <div className="container px-5 pt-15 pb-10">
+      <div className="container px-5 pt-15 pb-10 mx-auto">
         <div className="mb-2 flex items-center justify-between space-y-2 flex-wrap">
           <h1 className="text-2xl font-bold tracking-tight">Dashboard</h1>
           <div className="flex items-center space-x-2 flex-wrap">
