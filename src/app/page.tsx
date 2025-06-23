@@ -58,7 +58,7 @@ export default function page() {
               className="pl-8 pr-3 py-1.5 rounded-md border border-gray-300 text-sm focus:outline-none"
             />
             <svg
-              className="absolute left-2 top-2.2 h-4 w-4 text-gray-500"
+              className="absolute top-[10px] left-[10px] h-4 w-4 text-gray-500"
               fill="none"
               stroke="currentColor"
               strokeWidth="2"
